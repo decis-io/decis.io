@@ -1,4 +1,4 @@
-package com.api.decisio;
+package com.backend.decisio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
